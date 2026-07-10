@@ -1,54 +1,109 @@
 <h1 align="center">hey, i'm ammar.</h1>
 
 <p align="center">
-  AI/ML engineer in the making · building systems that see, reason, and automate.
+  <code>AI/ML</code> · <code>computer vision</code> · <code>systems engineering</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nvragnstdecember">
-    <img src="https://komarev.com/ghpvc/?username=nvragnstdecember&style=flat-square" alt="Profile views" />
-  </a>
+  building things that see, reason, and automate.
 </p>
 
 ---
 
-### what i'm building
+### `> currently building`
 
-🚦 **TrafficPulse**  
-A computer vision system for traffic intelligence and automated violation detection, designed with Indian road conditions in mind.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently working across vehicle detection, tracking, ANPR, violation reasoning, dataset governance, and reproducible evaluation.
+#### 🚦 TrafficPulse
 
-🌌 **Aether** `private · in progress`  
-An AI system currently under active development. More details as it takes shape.
+A computer vision system for traffic intelligence and automated violation detection, designed with complex Indian road conditions in mind.
+
+`computer vision` `tracking` `ANPR` `evaluation`
+
+<a href="https://github.com/nvragnstdecember/TrafficPulse">view repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌌 Aether
+
+A private AI system currently under active development.
+
+Focused on building reliable AI infrastructure with typed contracts, reproducible workflows, and a systems-first architecture.
+
+`AI systems` `Python` `PostgreSQL` `Docker`
+
+**private · in progress**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### selected work
+### `> selected work`
 
-**TrafficPulse** — traffic intelligence & violation detection  
-**ScanPayGo** — smart shopping and checkout system  
-**Course Registration System** — database-driven academic project  
-**Recipe Finder** — recipe discovery application  
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚦 TrafficPulse
+
+AI-powered traffic intelligence and violation detection.
+
+<a href="https://github.com/nvragnstdecember/TrafficPulse">explore project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 ScanPayGo
+
+A smart shopping and checkout system built to simplify the retail experience.
+
+<a href="https://github.com/nvragnstdecember/ScanPayGo">explore project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 Course Registration System
+
+A database-driven academic course registration system.
+
+<a href="https://github.com/nvragnstdecember/course_registration_system">explore project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🍳 Recipe Finder
+
+A simple application for discovering recipes.
+
+<a href="https://github.com/nvragnstdecember/recipe-finder">explore project →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### tools i work with
+### `> tools`
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,postgres,docker,git,github,vscode&perline=9" />
 </p>
 
-**interests:** computer vision · machine learning · AI systems · backend engineering
+<p align="center">
+  computer vision · machine learning · AI systems · backend engineering
+</p>
 
 ---
 
-### github
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nvragnstdecember&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvragnstdecember&layout=compact&hide_border=true&theme=transparent" />
-</p>
+### `> activity`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nvragnstdecember&theme=transparent&hide_border=true" />
@@ -57,5 +112,5 @@ An AI system currently under active development. More details as it takes shape.
 ---
 
 <p align="center">
-  <i>building, breaking, learning, repeating.</i>
+  <code>building → breaking → learning → repeating</code>
 </p>
