@@ -124,13 +124,13 @@ A database-driven system for managing academic course registration.
 
 <td width="50%" valign="top">
 
-<h4>🍳 Recipe Finder</h4>
+<h4>🌡️ Temperature-Based Fan Control</h4>
 
 <p>
-A lightweight application for discovering and exploring recipes.
+An automatic fan control system that adjusts operation based on temperature, built using C++ and embedded systems concepts.
 </p>
 
-<a href="https://github.com/nvragnstdecember/recipe-finder">explore project →</a>
+<a href="https://github.com/nvragnstdecember/temperature_based_fan_control">explore project →</a>
 
 </td>
 
